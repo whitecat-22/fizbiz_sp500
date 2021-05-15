@@ -1,6 +1,6 @@
 # fizbiz_sp500
 
-![]()
+![https://github.com/whitecat-22/fizbiz_sp500/blob/main/screenshot.png](https://github.com/whitecat-22/fizbiz_sp500/blob/main/screenshot.png)
 
 
 参考：
